@@ -5,6 +5,9 @@ This is a personal portfolio website built with React and Vite.
 ## Getting Started
 
 1. Clone the repository
+```bash
+   git clone [my_portfolio](https://github.com/deepakpatil26/my_portfolio)
+```
 2. Install dependencies:
 ```bash
    npm install
