@@ -11,19 +11,18 @@ const About = () => {
           <p className="text-gray-600">
             I'm a passionate Full Stack Developer with expertise in React,
             Node.js, Express, and MongoDB. My journey in web development started
-            5 years ago, and since then, I've been constantly learning and
+            2 years ago, and since then, I've been constantly learning and
             improving my skills in modern web technologies.
           </p>
           <p className="text-gray-600 mt-4">
             I specialize in building scalable web applications using the MERN
             stack. My experience includes working with TypeScript, Redux,
-            Next.js, and various other modern tools and frameworks. I'm also
-            well-versed in RESTful APIs, GraphQL, and database design.
+            Next.js, and various other modern tools and frameworks.
           </p>
           <p className="text-gray-600 mt-4">
-            When I'm not coding, I contribute to open-source projects and mentor
-            junior developers. I believe in writing clean, maintainable code and
-            following best practices in software development.
+            When I'm not coding, I contribute to open-source projects. I believe
+            in writing clean, maintainable code and following best practices in
+            software development.
           </p>
         </div>
       </div>

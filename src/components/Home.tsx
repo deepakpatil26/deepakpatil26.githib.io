@@ -11,7 +11,7 @@ const Home = () => {
               id="user-detail-name"
               className="text-4xl font-bold text-gray-900 mb-4"
             >
-              John Doe
+              Deepak Patil
             </h1>
             <p id="user-detail-intro" className="text-xl text-gray-600 mb-8">
               Full Stack Developer specializing in MERN stack with a passion for
@@ -20,7 +20,7 @@ const Home = () => {
             </p>
             <div className="flex space-x-4 mb-8">
               <a
-                href="/DeepakPatil_Resume.pdf"
+                href="public/DeepakPatil_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 id="resume-link-2"
@@ -62,7 +62,7 @@ const Home = () => {
           </div>
           <div className="flex justify-center">
             <img
-              src="/ProfilePic.jpg"
+              src="public/ProfilePic.jpg"
               alt="Professional headshot"
               className="home-img rounded-full w-80 h-80 object-cover shadow-lg"
             />

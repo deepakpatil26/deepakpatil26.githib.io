@@ -44,7 +44,7 @@ const Navbar = () => {
               Contact
             </a>
             <a
-              href="/DeepakPatil_Resume.pdf"
+              href="public/DeepakPatil_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="nav-link resume bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700"
